@@ -1,0 +1,1 @@
+These files are covered by the Apache 2.0 License.
